@@ -1,0 +1,87 @@
+.galeria6,
+.home2,
+.katalog2,
+.mapa2 {
+  position: absolute;
+  height: 31.91%;
+  width: 24.43%;
+  top: 68.09%;
+  left: 0;
+  display: inline-block;
+}
+.galeria6,
+.katalog2,
+.mapa2 {
+  height: 30.85%;
+  width: 18.75%;
+  left: 28.71%;
+}
+.galeria6,
+.mapa2 {
+  left: 81.25%;
+}
+.mapa2 {
+  left: 54.98%;
+}
+.ikonka-strony-gwnej2 {
+  position: absolute;
+  height: 62.13%;
+  width: 9.19%;
+  top: 0;
+  right: 83.17%;
+  bottom: 37.87%;
+  left: 7.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.ikonka-katalogu-icon1 {
+  top: 0;
+  right: 57.21%;
+  bottom: 37.87%;
+  left: 33.6%;
+  cursor: pointer;
+}
+.ikonka-galerii-icon1,
+.ikonka-katalogu-icon1,
+.ikonka-mapy-icon2 {
+  position: absolute;
+  height: 62.13%;
+  width: 9.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ikonka-mapy-icon2 {
+  top: 0;
+  right: 30.94%;
+  bottom: 37.87%;
+  left: 59.87%;
+  cursor: pointer;
+}
+.ikonka-galerii-icon1 {
+  top: -2.13%;
+  right: 4.67%;
+  bottom: 40%;
+  left: 86.13%;
+}
+.property-1variant5 {
+  position: absolute;
+  top: 288px;
+  left: calc(50% - 163.7px);
+  width: 327.4px;
+  height: 47px;
+}
+.dolny-pasek-nawigacyjny2 {
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 367.4px;
+  height: 355px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--nav-size);
+  color: var(--text);
+  font-family: var(--nav);
+}

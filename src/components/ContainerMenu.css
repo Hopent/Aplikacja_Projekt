@@ -1,0 +1,27 @@
+.maska-z-cieniem18 {
+  position: absolute;
+  top: 19.67rem;
+  left: 25.88rem;
+  background: linear-gradient(180deg, rgba(15, 15, 15, 0), #000 95.94%);
+  width: 25.88rem;
+  height: 19.5rem;
+  transform: rotate(-179.62deg);
+  transform-origin: 0 0;
+}
+.menu5 {
+  position: absolute;
+  top: 4.13rem;
+  left: 5.25rem;
+  letter-spacing: 0.03em;
+}
+.grny-pasek-nawigacyjny8 {
+  position: absolute;
+  top: -0.19rem;
+  left: -1.81rem;
+  width: 26rem;
+  height: 19.67rem;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--secondary);
+  font-family: var(--nav);
+}

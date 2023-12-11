@@ -1,0 +1,44 @@
+.menu2 {
+  position: absolute;
+  top: 7.69%;
+  left: 9.7%;
+  letter-spacing: 0.03em;
+}
+.ikona-powiadomie-icon3 {
+  top: 3.85%;
+  right: 0;
+  bottom: 3.85%;
+  left: 91.97%;
+  cursor: pointer;
+}
+.ikona-menu-icon1,
+.ikona-powiadomie-icon3,
+.ikona-wyszukiwarki-icon3 {
+  position: absolute;
+  height: 92.31%;
+  width: 8.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ikona-menu-icon1 {
+  top: 0;
+  right: 91.97%;
+  bottom: 7.69%;
+  left: 0;
+  cursor: pointer;
+}
+.ikona-wyszukiwarki-icon3 {
+  top: 7.69%;
+  right: 15.38%;
+  bottom: 0;
+  left: 76.59%;
+}
+.grny-pasek-nawigacyjny5 {
+  width: 299px;
+  height: 26px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--secondary);
+  font-family: var(--nav);
+}

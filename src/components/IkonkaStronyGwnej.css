@@ -1,0 +1,18 @@
+.subtract-icon {
+  position: relative;
+  width: 1.09rem;
+  height: 1.22rem;
+}
+.ikonka-strony-gwnej4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 62.13%;
+  width: 9.19%;
+  top: 0;
+  right: 83.17%;
+  bottom: 37.87%;
+  left: 7.64%;
+}

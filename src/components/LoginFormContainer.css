@@ -1,0 +1,17 @@
+.zapomniae-hasa {
+  position: absolute;
+  top: 11.63rem;
+  left: 9.56rem;
+  letter-spacing: 0.03em;
+}
+.panel-logowania1 {
+  position: absolute;
+  top: 11.31rem;
+  left: 12.5rem;
+  width: 18.75rem;
+  height: 12.56rem;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--secondary);
+  font-family: var(--nav);
+}

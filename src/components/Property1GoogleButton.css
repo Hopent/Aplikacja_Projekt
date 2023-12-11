@@ -1,0 +1,51 @@
+.group-child {
+  border-radius: var(--br-base);
+  background-color: var(--text);
+}
+.group-child,
+.property-1google-button-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.google,
+.icon {
+  position: absolute;
+}
+.google {
+  top: 7.69%;
+  left: 37.89%;
+  letter-spacing: 0.03em;
+}
+.icon {
+  height: 100%;
+  width: 27.37%;
+  top: 0;
+  right: 72.63%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.google-parent {
+  position: absolute;
+  height: 48.15%;
+  width: 54.91%;
+  top: 25.93%;
+  right: 22.54%;
+  bottom: 25.93%;
+  left: 22.54%;
+}
+.property-1google-button {
+  height: 54px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+  font-family: var(--font-neue-montreal);
+  align-self: stretch;
+}
